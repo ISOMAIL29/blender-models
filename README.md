@@ -1,4 +1,5 @@
 **TURKISH**
+
 Blender'da bu mini-ATX anakartı yaparken, her bir parçanın temelini bir küp, düzlem ya da silindirle oluşturdum. 
 Anakartın ana hatlarından RAM slotlarına, CPU soketine ve üzerindeki tüm küçük detaylara kadar her şeyi Extrude ve 
 Scale komutlarıyla şekillendirdim. Özellikle RAM slotları gibi kırmızı bölgelerdeki ve çipset soğutucusundaki katmanlı 
@@ -17,6 +18,7 @@ köşelere hafif bir yumuşaklık katmak istediğimde kullandım, genel modelimd
 Kısacası, her şey temel geometrilerin manipülasyonuyla şekillendi.
 
 **ENGLISH**
+
 When modeling this mini-ATX motherboard in Blender, I primarily used Extrude and Scale to shape all components, from the main 
 board to the RAM slots and CPU socket. Loop Cut was frequently employed for creating layered details, particularly on the red 
 RAM slots and chipset heatsink.
